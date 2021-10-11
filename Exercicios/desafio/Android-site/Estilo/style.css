@@ -1,0 +1,8 @@
+@charset "UTF-8";
+body{
+    background-color: #c5ebd6;
+   
+}
+h1 {
+    background-image: linear-gradient(to right, #c5ebd6,green);
+}
